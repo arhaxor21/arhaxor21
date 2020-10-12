@@ -8,4 +8,4 @@ Chapter Head at OWASP Namakkal | Independent security researcher | Reverse engin
 <hr>
 
 ### About Me
- ## yOu rEALLy wAAnA kn0w about mE. tH3N fInD m3 :-)
+I'm an Independent🚶‍♂️ Cyber Security enthusiast👨‍💻  who love to get updated 📢 on the infosec community🌍 and learning new stuffs. I wil develop💭 things on my own and i wil exploit⚠ myself being an security researcher. Boosting myself actively participate on the Capture The 🏁 it's not about win or loss i wanna make my hand dirty😂😂 while playing 🔞. I explore my self in multiple domains like Pesntesting📌, Reverse engineering🔁, Malware analysis☢, Exploit development🔰, Digital forensic🌐 ....🔜
