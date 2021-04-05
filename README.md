@@ -3,7 +3,7 @@
 #  #whoami
 <center>
 <h3> Abishekraghav Murugeashan ✔</h3>
-Chapter Head at OWASP Namakkal | Independent security researcher | Reverse engineer | Digital Forensic | CTF player | Public Speaker | Developer |
+Chapter Head at OWASP Namakkal | Security Researcher | Reverse engineer | Digital Forensic | CTF player | Public Speaker 
 </center>
 <hr>
 
