@@ -4,7 +4,7 @@
 <center>
 <h3> Abishekraghav Murugeashan ✔</h3>
   Chapter Head at OWASP Namakkal | Security Researcher | Reverse engineer | Digital Forensic | CTF player | Public Speaker
-   <img align="left" alt="GIF" src="https://media.giphy.com/media/d5k2sqNLfCaR8ATBI1/giphy.gif" />
+  <img align="left" src="https://media.giphy.com/media/d5k2sqNLfCaR8ATBI1/giphy.gif" width="400" height="370" > 
 </center>
 <hr>
 
