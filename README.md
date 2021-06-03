@@ -3,7 +3,7 @@
 #  [#whoami](https://www.flowcode.com/page/arhaxor21)
 <center>
 <h3> Abishekraghav Murugeashan ✔</h3>
-  Chapter Head at OWASP Namakkal | Security Researcher | Reverse engineer | Digital Forensic | CTF player | Public Speaker
+   Security Researcher | Reverse engineer | Digital Forensic | CTF player | Public Speaker
   <br>
 </center>
   <br>
