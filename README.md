@@ -6,8 +6,7 @@
    Security Researcher | Reverse engineer | Digital Forensic | CTF player | Public Speaker
   <br>
 </center>
-  <br>
-  <img align="left" src="https://media.giphy.com/media/d5k2sqNLfCaR8ATBI1/giphy.gif" width="400" height="420" > 
+  <br> 
 <hr>
 
 ### About Me
